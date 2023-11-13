@@ -1,0 +1,4 @@
+{
+  "asset_names": ["World", "EM IMI", "USA SCV", "Europe SCV"],
+  "target_weights": [65.0, 11.0, 14.0, 10.0]
+}
