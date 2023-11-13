@@ -215,3 +215,4 @@ if __name__ == "__main__":
     rebalancer.read_input()
     rebalancer.determine_output()
     rebalancer.print_statistics()
+    input("\nDrücke Enter um dieses Fenster zu verlassen!")
